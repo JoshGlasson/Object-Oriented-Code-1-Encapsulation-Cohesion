@@ -1,4 +1,4 @@
-
+# ORIGINAL CODE (ONE CLASS)
 
 #class SecretDiary
 #attr_reader :locked, :diary
@@ -28,6 +28,7 @@
 
 #end
 
+# HIGHER COHESION CODE
 
 class DiaryStatus
   attr_reader :locked
