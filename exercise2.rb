@@ -1,7 +1,8 @@
 Calculator
 
 "*add"
-  "*subtract"
+"*subtract"
 
               "*print_answer"
+
               
